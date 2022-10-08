@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="8" tileheight="8" infinite="1" nextlayerid="4" nextobjectid="5">
+ <tileset firstgid="1" source="testset.tsx"/>
+ <layer id="1" name="movingblock" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFo4Ay0AzELRToXwDEC6njlFFAIgAApDkCSQ==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="2" name="mainlevel" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="16" height="16">
+   eJyrZ2BgaADiRiBuAuJ6Anx0MAeI5wLxPCCeTwR/FIwCGHCD0iyMCBrGxgcUoGqSGQinV3T+FiDeCsTboJjU9HsRiC8B8WUoJhW8A+L3QPwBikkFGkC/awKxFhBrExFWhAAAUDMmLw==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFo4B84E6h/hQK9W9DwtuBeAeJ+i8j4StAfBWI5YBYHg0r4ND/AQl/BOJPQBwBxJFoOAqHfk1GCNYCYm0g1mEkzt0SQCxJnFKswBSIzYAYADwsEVY=
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBi5oGagHUBjcBKI2YCYHQlzAHEpCfrJBUJALA5ll5GgDxYn+kBsQoH9i4F4BRZxkFs0kTAuUA/EDUDcCMRNZNg/B4jnAvE8IJ6PRd4NiN2BWAqIpbHQMkAsi8f8ZCBOAWJzILbAQlsCsRUWfTuBeBcQ7wbiPUAMAD0FEa8=
+  </chunk>
+   <chunk x="48" y="0" width="16" height="16">
+   eJzVkMsNglAQRR8bRNswYKxQRRMMdWgsQY1rO1CgDfz04JkYopmwuC69yVm8xZm5b0L478wghgEksIcDHOEk+HPnX+AKFTSCv3B+Cze4i37u/Dh6uw/RX/b0T5gxhKfgr3r62/4aRpEwwMX6d/uV/j7W325v/1f6T6GANZTh0998tf8GtrALv9/f53u/0t+nu596/7N7j3FSyGAi+C/SWidN
+  </chunk>
+   <chunk x="0" y="16" width="16" height="16">
+   eJztzkkNgDAURdFfCwxBBZMPBg0YwBSQ1kILeOu18MuGEF5yljd5It/f8qD1CDhx4Vb2tRFp0KJDb9K/ZMhRoESl7AeMmDBjVfYbdhywcMr+3/sWARRLCj0=
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJzl0D0OAUEYxvGZWsINUErofSwVLkCD0gW4ACfgApyAWkLvq5bQS6gl9BL/jdlkMjuEic6T/DaZvPtkPoRwSw11x66fDrrauo0lVlhjg62l10MfAwxVJ/g3K4XIIY8CPBnujzDGBFMcccLZ8R53/8M+0rLXJwnObDvrt5lhjsWLeRwJg54d9jioWdKYeyga9FxwxU3NSiijgioaaBr0RHiDKGLyOWu9vW04KXppZH7wlv+SB446H/U=
+  </chunk>
+   <chunk x="32" y="16" width="16" height="16">
+   eJwLYWBgCAXiEDQ6DIjDGVBBIhBfA+LrQHwDiG8CcSEQF2Ghi4G4hAET6DIyMOgBsT4QGwBxH1CsnwGTngDEE7HoRwergXgNFnotEK8jQj89gCYNzVCg0H5bCu2PotB+YgElZgyk/fVA3ADEjUDchIVPCMwB4rlAPA+I52PhUwoAiBAffQ==
+  </chunk>
+   <chunk x="48" y="16" width="16" height="16">
+   eJy7xUAZMGSk0IBRMApGwYABACe7AQ0=
+  </chunk>
+  </data>
+ </layer>
+ <objectgroup id="3" name="Object Layer 1">
+  <object id="1" name="trigger1" x="64" y="56" width="24" height="32"/>
+  <object id="2" name="trigger2" x="192" y="56" width="16" height="40"/>
+  <object id="4" name="zigzag" x="136" y="64">
+   <polyline points="0,0 0,-56 16,-40 32,-56 48,-40 64,-56 80,-40"/>
+  </object>
+ </objectgroup>
+</map>
