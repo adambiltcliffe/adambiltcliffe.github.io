@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="16" tileheight="16" infinite="1" nextlayerid="18" nextobjectid="45">
+ <tileset firstgid="1" source="phtiles16.tsx"/>
+ <layer id="14" name="background" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjYBgFo4Aw4EbDhNSQAwTx6OdCw/jsF6RQPyH7BXDoxweIsR+fPDH6CdkvgMUcAMrfAes=
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo4AywI2EydUvSKF+SuyH2U2ufkoBFxALQGl6AwDU+AC1
+  </chunk>
+   <chunk x="16" y="-16" width="16" height="16">
+   eJxjYBgFo2BoA24kLEiGfkE0M8i1H2YOMuCCYgEkNgyj60e3H109Lv3YAD49MPeAAAD3SAG1
+  </chunk>
+   <chunk x="32" y="-16" width="16" height="16">
+   eJxjYBgFo4BywI2EKdEvOMD2D6R+QQr0kwsA5NAA0w==
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjYGBg4KIAMwyQfmwAl7nIbAE0MVL1E+MOdPOI1Y/PflzmU9P9AhTqJ8V+XP7Bpx/dfdj0o8cvPvuJdT+x6ZDa+gkBYtXhAwAOIgYx
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJzjYmBg4MKBBfDIUYKRzUUGMDl0QIyZuNRRQz8+QE39xIhjUyeAxKaG+3HFDy0BobghRT0t0y42O2htFz7/UwoAYyMGPw==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJzjYmBg4MKCBbCIwQA29YQwAwH92OzDppcBTZwUe7HpJwcQCg9a64eFFbp+dHFa2U9N/ZTGHzlpkVT9uNImNv340jE59uPyvwAOOWIAstkAC3wF6Q==
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJzjYmBg4ELDpACYHgEy9aObQ2/96H4nhNH9iU+eECZkP6XuJ1Y/KW4mNYyooY6WmJjwGQz6cYUVpfYDAHw9BkM=
+  </chunk>
+   <chunk x="48" y="0" width="16" height="16">
+   eJxjYBg+gBGIuaGYcQjqZ6CSfkES9HMhYXLsR9dPKuBCwwJYxEjRjw3TSz85YKD1AwBe4QI+
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJxjYCAdcEExuYBe+rnQsAAWMVL0Y8PE6sdlHin6R8EooDYAABP0AWU=
+  </chunk>
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYEAFXCRidEAt/QJkmEUuptQubO4nNjxoFX7E+hUboMR+dDMIhS0+QIn9o4A4AAAqYgVL
+  </chunk>
+   <chunk x="48" y="16" width="16" height="16">
+   eJzjYmBg4IJicoAAhfq5GEb1D7R+WBwOlP2U6B8FlAEArO0BVw==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="15" name="secretdoors" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjYBgFo2AUjDTACKUBBAgAAg==
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjYCAPMJKpj1r6R8EoGAWUAwALUAAD
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYCAfMFKglxr6R8EoGAWUAQALSAAD
+  </chunk>
+  </data>
+ </layer>
+ <layer id="12" name="releaser" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="48" y="0" width="16" height="16">
+   eJxjYBgFo2BwAMYhrn8oAgAHnAAE
+  </chunk>
+  </data>
+ </layer>
+ <layer id="9" name="doodler" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDAbAOAB2AgAEdAAC
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDCRgHEC7AQR8AAI=
+  </chunk>
+  </data>
+ </layer>
+ <layer id="7" name="finaldoor" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYBj6gGmA9Y+CUTBUAQAQcAAF
+  </chunk>
+  </data>
+ </layer>
+ <layer id="17" name="falsewall" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="48" y="0" width="16" height="16">
+   eJxjYBgFo2DwAcYRrp9eAAAIIAAF
+  </chunk>
+  </data>
+ </layer>
+ <layer id="8" name="towerhatch" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBh6gBGKR8EoGAWUAQAKlAAD
+  </chunk>
+  </data>
+ </layer>
+ <layer id="3" name="hatchleft" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFo4AywAjFo2DoAQAHdAAD
+  </chunk>
+  </data>
+ </layer>
+ <layer id="4" name="hatchright" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFo4A6gBGKR8HQAQAHZAAD
+  </chunk>
+  </data>
+ </layer>
+ <layer id="13" name="releaser2" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBgcgBEJj4JRMAroAwAOXAAE
+  </chunk>
+  </data>
+ </layer>
+ <layer id="10" name="platform" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYBgF9ACMSHgUjILBAgALvAAE
+  </chunk>
+  </data>
+ </layer>
+ <layer id="11" name="piston" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBgFo2AUMCHhoaifXAAAEKgAEw==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="6" name="door" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBgFo2BkADYK9fNQqF+IQv20AAAe0AAl
+  </chunk>
+  </data>
+ </layer>
+ <layer id="16" name="secretplat" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgagBmIWQfaEaNgFAwzAAAerAAJ
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJxjYCAOMAMxK5FqR8EoGAVDAwAAIqwACQ==
+  </chunk>
+  </data>
+ </layer>
+ <objectgroup id="5" name="paths">
+  <object id="4" name="hatchleft" x="288" y="144">
+   <polyline points="0,0 0,-16 -32,-16"/>
+  </object>
+  <object id="5" name="hatchright" x="320" y="144">
+   <polyline points="0,0 0,-16 32,-16"/>
+  </object>
+  <object id="6" type="enemy" x="304" y="128">
+   <point/>
+  </object>
+  <object id="14" type="enemy" x="304" y="128">
+   <point/>
+  </object>
+  <object id="16" type="enemy" x="480" y="32">
+   <point/>
+  </object>
+  <object id="17" type="enemy" x="480" y="32">
+   <point/>
+  </object>
+  <object id="21" type="enemy" x="784" y="432">
+   <point/>
+  </object>
+  <object id="27" type="enemy" x="848" y="208">
+   <point/>
+  </object>
+  <object id="28" type="enemy" x="848" y="208">
+   <point/>
+  </object>
+  <object id="31" type="enemy" x="568" y="32">
+   <point/>
+  </object>
+  <object id="22" type="enemy" x="744" y="432">
+   <point/>
+  </object>
+  <object id="23" type="enemy" x="704" y="432">
+   <point/>
+  </object>
+  <object id="8" type="enemy" x="312" y="240">
+   <point/>
+  </object>
+  <object id="9" name="door" x="192" y="176">
+   <polyline points="0,0 0,-48"/>
+  </object>
+  <object id="12" name="hatch_trigger" x="360" y="160" width="24" height="80"/>
+  <object id="15" name="right3" x="496" y="32">
+   <polyline points="0,0 48,0"/>
+  </object>
+  <object id="20" name="doodler" x="-208" y="-16">
+   <polyline points="0,0 32,0"/>
+  </object>
+  <object id="24" name="piston" x="544" y="192">
+   <polyline points="0,0 0,-48"/>
+  </object>
+  <object id="25" name="platform" x="672" y="336">
+   <polyline points="0,0 64,0 64,-144 0,-144"/>
+  </object>
+  <object id="26" name="releaser" x="832" y="208">
+   <polyline points="0,0 0,-48"/>
+  </object>
+  <object id="29" name="releaser_trigger" x="728" y="208" width="88" height="16"/>
+  <object id="32" name="drop3" x="864" y="208">
+   <polyline points="0,0 0,48"/>
+  </object>
+  <object id="33" name="compartment" x="832" y="160" width="32" height="48"/>
+  <object id="34" name="secret1" type="secret" x="-16" y="-32" width="64" height="64"/>
+  <object id="36" name="secret2" type="secret" x="864" y="160" width="48" height="48"/>
+  <object id="44" name="unlock_switch" type="switch" x="392" y="368">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="entities">
+  <object id="1" name="start" type="player" x="-184" y="80">
+   <point/>
+  </object>
+  <object id="3" type="walker_enemy" x="72" y="240">
+   <point/>
+  </object>
+  <object id="37" type="heart" x="16" y="144">
+   <point/>
+  </object>
+  <object id="39" type="heart" x="64" y="144">
+   <point/>
+  </object>
+  <object id="40" type="heart" x="896" y="208">
+   <point/>
+  </object>
+  <object id="41" name="finish" x="736" y="80" width="16" height="16"/>
+  <object id="42" name="final_switch" type="switch" x="712" y="96">
+   <point/>
+  </object>
+  <object id="43" name="door_switch" type="switch" x="120" y="240">
+   <point/>
+  </object>
+ </objectgroup>
+ <layer id="1" name="main" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-16" y="-16" width="16" height="16">
+   eJxjYBgFowA/YCRCDB8fxGZCw6Tqp9R+eujH5T9a2Y+O0e1HxrgAADMMADc=
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo4B8wEiAPxL0MyHhwWA/KRgAGDgAJg==
+  </chunk>
+   <chunk x="16" y="-16" width="16" height="16">
+   eJxjYBgFo2DoAkYixcjRz0gkxqYflxw2dcSK41LHhIbx6WVEYwMAFtAAIw==
+  </chunk>
+   <chunk x="32" y="-16" width="16" height="16">
+   eJxjYBgFo4AywEiAP6qfdvoZoZgJCZOiHwAS0AAW
+  </chunk>
+   <chunk x="-16" y="0" width="16" height="16">
+   eJxjZKAMMFJJPzsZ+tAxMxCzADErEh/GxmUvMXxi/IjLPbjsJ8U9IDYTGibkfiYK7WfCI0eMfmLCH18YEwp/YvRTK/6JAaTo5yBSPyFMCYCZAQAgSwCK
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBhYwIiEsYkxYtOEwxxSxEnRjw9T035SzEUHTBTaT65+QuGDLQ4JyRNjx3AHvEhsQumOkvAHAIGgAFM=
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYCAeMEIxOYCRgXz9yPoY0cRJ0YtNPwgzoWFGBtzuxaYfm5343DMS9BMbfoQAulmk6idk9mDXT8j/xGBcdoLYAJlIAE4=
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYMAEjFjESAGk6GfEop4a+onFlABK9HMSoZ9S99Pa/8MBDNb0QY5+ctwPAIuwAD8=
+  </chunk>
+   <chunk x="48" y="0" width="16" height="16">
+   eJxjYBi+gBuKGQexfkY0TG/96GZRqp8JitHZlIChoh89HnDFC6X2UFM/AIznAKo=
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJxjYCANMOJgU1s/Ix5MrH5KALX1g/jMQMyChonRz8tAOCyw6SdW7SgYuQAAoqQAPQ==
+  </chunk>
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYEAARgbKADn6GdHwUAOsDKjuZ0YTIwSQ1Q1E+ONyy3AxgxAe6QAAaMQALQ==
+  </chunk>
+   <chunk x="48" y="16" width="16" height="16">
+   eJxjYEAARgbKwKj+Uf301s+IhkcBaQAAJqQAEA==
+  </chunk>
+  </data>
+ </layer>
+</map>
