@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="16" tileheight="16" infinite="1" nextlayerid="20" nextobjectid="47">
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="16" tileheight="16" infinite="1" nextlayerid="21" nextobjectid="55">
  <tileset firstgid="1" source="phtiles16.tsx"/>
  <layer id="14" name="background" width="40" height="30">
   <data encoding="base64" compression="zlib">
    <chunk x="-16" y="-16" width="16" height="16">
-   eJxjYBgFo4Aw4EbDhNSQAwTx6OdCw/jsF6RQPyH7BXDoxweIsR+fPDH6CdkvgMUMAMq3AeE=
+   eJxjYBgFo4Aw4EbDhNSQAwTx6OdCw/jsF6RQPyH7BXDoxweIsR+fPDH6CdkvgMUcAMrfAes=
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDFXAhQML4JFDxgAaMACn
+  </chunk>
+   <chunk x="16" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDFXAhYTJAQALCAAf
   </chunk>
    <chunk x="-32" y="0" width="16" height="16">
-   eJxjYBgFxAIuLHgg9ZMK8OnH5jZiMLX0j4KBAQCljQHN
+   eJxjYBgFxAIuLHgg9ZMK8OnH5jZiMLX00xtQav9A66cWAADT9QIJ
   </chunk>
    <chunk x="-16" y="0" width="16" height="16">
-   eJxjYGBg4CITw8BA6McG0OWxsQVw2E2sfnxqcLmHXP3EgKGufxQMLAAA9DcDHQ==
+   eJxjYGBg4KIAMwyQfmwAl7nIbAEc9hKrnxj3kKufHH/j8yMXATFax6MAkfai+4VeaY/UMKKFPQMNANlwB7U=
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJzjYmBg4BoALAClkQGyPC6ArgYbG5sZ2NxASD8XAf3YzBIgwgxcagiZj08NOiBVDTaALb6ItZ+QewnpI8UMcsMDn/+IBZT4C5s55AJy9QMAj7oGDw==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJzjYmBg4IJicgAXA2X6BxpQ6vaRrl9ggO0fymlvMAAASO4A4w==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="20" name="dropstairs" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBg8gBEJU6qfHDPQ9ZNqBjb9pJiBS/9A+AWbGeQASvUjm0EJoFT/cAUAZTAAKQ==
   </chunk>
   </data>
  </layer>
@@ -24,9 +43,33 @@
   <object id="46" name="up10" x="-448" y="88">
    <polyline points="0,0 0,-160"/>
   </object>
+  <object id="48" name="down5" x="48" y="32">
+   <polyline points="0,0 0,80"/>
+  </object>
  </objectgroup>
  <objectgroup id="2" name="entities">
   <object id="1" name="start" type="player" x="-184" y="80">
+   <point/>
+  </object>
+  <object id="47" name="stair_switch" type="switch" x="72" y="32">
+   <point/>
+  </object>
+  <object id="49" type="parrot_enemy" x="-120" y="160">
+   <point/>
+  </object>
+  <object id="50" type="parrot_enemy" x="-120" y="224">
+   <point/>
+  </object>
+  <object id="51" type="enemy" x="-8" y="32">
+   <point/>
+  </object>
+  <object id="52" type="parrot_enemy" x="8" y="160">
+   <point/>
+  </object>
+  <object id="53" type="parrot_enemy" x="-56" y="224">
+   <point/>
+  </object>
+  <object id="54" type="parrot_enemy" x="80" y="224">
    <point/>
   </object>
  </objectgroup>
@@ -39,16 +82,31 @@
    eJxjYBgFo2DgACMJmFJ7Rrp+bBgAFtgAFg==
   </chunk>
    <chunk x="-16" y="-16" width="16" height="16">
-   eJxjYBgFowA/YCRCDB8fxGZCw6Tqp9R+eujH5T9a2s+IhNHtR8a4AAAyyAA2
+   eJxjYBgFowA/YCRCDB8fxGZCw6Tqp9R+eujH5T9a2Y+O0e1HxrgAADMMADc=
+  </chunk>
+   <chunk x="0" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDBRgpBBTCgAKIAAR
+  </chunk>
+   <chunk x="16" y="-16" width="16" height="16">
+   eJxjYBgFo2AUDBRgRMIDAQAFdAAE
   </chunk>
    <chunk x="-48" y="0" width="16" height="16">
    eJxjYCAfMFKgd1T/KBgFAw8AFFQABg==
   </chunk>
    <chunk x="-32" y="0" width="16" height="16">
-   eJxjYBgZgBENM6CxidFPijg99KP7iRDGpZ8SQA39lOBRQBkAAFlgACs=
+   eJxjYBgZgBENM6CxidFPijg99KP7iRDGpZ8SQA39lGBy7aQEDAb91Ig7EAAAXJwAMQ==
   </chunk>
    <chunk x="-16" y="0" width="16" height="16">
-   eJxjYBgcgJ1E9YxINAwzAzELELMi8VmR1GLTTwwfm35s5qFjfPYTcg+pYKjqRw6vUUB/AACsfAA7
+   eJxjYBgcgJ1E9YxYMDMQswAxKxIfxsamn1g+Nv343APj47OfkHuIsYdUN1LDfmrrx+YXdHF8aoY6wOVPYjGlAADF1ABW
+  </chunk>
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBhYwIiEcYnjU4ONTchsYvUjm0EI4FNDjBnEyBOygxAgNizJAeTqJxRH5JhDLfMosYNY+9HNIcf9xKRjXAAAbggANg==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBhYwIiEB0I/sjmj+keefmqln6EKACvcABI=
+  </chunk>
+   <chunk x="0" y="16" width="16" height="16">
+   eJxjYGBgYETDo2AUjIKRAQAT2AAF
   </chunk>
   </data>
  </layer>
