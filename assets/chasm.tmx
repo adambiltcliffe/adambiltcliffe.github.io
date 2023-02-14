@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="16" tileheight="16" infinite="1" nextlayerid="31" nextobjectid="106">
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="16" tileheight="16" infinite="1" nextlayerid="38" nextobjectid="180">
  <tileset firstgid="1" source="phtiles16.tsx"/>
  <layer id="14" name="background" width="40" height="30">
   <data encoding="base64" compression="zlib">
    <chunk x="-16" y="-16" width="16" height="16">
-   eJxjYBgFo2AU4AJcBDAx+sWAWBwLliBSvwwQy2LBckTqVwJiZSxYBYgB+egC0A==
+   eJxjYBgFo2AU4AJcBDAx+sWAWBwLliBSvwwOOTki9SsBsTIWrALEAMyYAj8=
   </chunk>
    <chunk x="0" y="-16" width="16" height="16">
    eJxjYBgFo2DkAi4oHqn6ATVgAFE=
@@ -16,37 +16,64 @@
    eJxjYMANuIjA+MBg1U8swKefFLOopV+ASvaTGhbDTT+xZhMT/wOtn1z/w9gAwT8FVw==
   </chunk>
    <chunk x="-32" y="0" width="16" height="16">
-   eJzjYmBgEABiLiQsw4AJ5NDU4MP01E8JGAzuB+GBCn9cYUBL+9H9OhjCfzjoFyBTPwAkJglb
+   eJzjYmBgEABirkGKCbmNEoDLTBksauVIcDOp+tH9SC/7cYUBLe0nJq3RO/yHg34BMvUDAE5uCWc=
   </chunk>
    <chunk x="-16" y="0" width="16" height="16">
-   eJzjYmBg4CKABYhQM5CYgYAYMlsAjx5sZhAC+MKGGECp/ZQCSu0cLvqR08VA2D9Q+gEkZASD
+   eJzjYmBg4CKABYhQM5CYgYAYMlsAjx5y8ECHDTFgMLqbmnFN63gUA2JxHJgYs2VIjBt66gcAO3kJbw==
   </chunk>
    <chunk x="0" y="0" width="16" height="16">
-   eJzjYmBg4GIgH3ANcf2jYBSMZAAAJW8AUQ==
+   eJzjYmBg4GIgH3ANE/3EYlL0C1CoH5/9pOob7JiQn3ABSu0VJwJLkOEuZCA3CPXD0iYAPgUG5A==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFAwm4kDCl+tGxABHm49OPDVNbPzn+osR+augfCIzNzejxSw4GACorBLM=
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBgFo2DkAi4kTAwQQFNLqn50tfTWjw4Ac0gAuw==
   </chunk>
    <chunk x="-80" y="16" width="16" height="16">
-   eJxjYBj+gAsPHgr68ZlBCqBU/ygYfgAAQ20BQQ==
+   eJxjYBg+gIsMPJj0k+M3UgCl+kfB8AMAUBMB9Q==
   </chunk>
    <chunk x="-64" y="16" width="16" height="16">
    eJxjYMANuKCYXECMfi4SMTb9YkAsgaSGEB8dKwGxCgl8amJSAaX6R8EoQAYAo7YDjQ==
   </chunk>
    <chunk x="-48" y="16" width="16" height="16">
-   eJxjYIAALhwYmxw2QKp+dLPw6SfFPmLwYNBPDX8QE34DqZ8UMNDuRzeHWLcNBf34AAArKQb/
+   eJxjYIAALhwYmxw2QKp+dLPw6SfFPmLwYNBPDX8QE34DqZ8UMNDuRzeHWLdRqp9aaUQMiCXwuAsXAABMwQdp
   </chunk>
    <chunk x="-32" y="16" width="16" height="16">
    eJxjYGBg4ELDMgyYQA5NjQAWfaTox4eHkn4YGKrup5b/kcFQcv9Q148OCOlHBwAu5QlH
   </chunk>
    <chunk x="-16" y="16" width="16" height="16">
-   eJzjYmBg4ELCpAIuhlH9o/op0y8wwPYPJv24MCX68QEAbesC9Q==
+   eJzjYmBg4MKCBZDYMgy4ATa96HhU/6h+fPoFcOgbKu4fyvoBODkHbQ==
+  </chunk>
+   <chunk x="0" y="16" width="16" height="16">
+   eJxjYCAM5ICYCwcmBlCqHxkMdf3kgIEOf0r1ixOpbhTQHwAAX14CUg==
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJzjYmBg4BqkWACJjQzIMYuQfkJmUxMMdLhSExPjH3x+BwFxCsKOVDCQ+ilNV7TQDwDitgY2
+  </chunk>
+   <chunk x="32" y="16" width="16" height="16">
+   eJzjYmBg4CISYwPE6iVFvwAd7ScGUMt+bG4ZLPpxhTml9uMKr4HWT6yf8eknJ81R6n5i3UMsAAAR2ga3
+  </chunk>
+   <chunk x="48" y="16" width="16" height="16">
+   eJxjYBgFo2DoAi4kPBD6hzoAAEaQAD0=
+  </chunk>
+   <chunk x="-64" y="32" width="16" height="16">
+   eJxjYBi5gGuA9Y+CUTDQAAA90AAV
   </chunk>
    <chunk x="-48" y="32" width="16" height="16">
-   eJxjYEAFXFBMLiCknwsNU1s/se6j1J+jYBQMBwAAa5YAtQ==
+   eJzjYmBg4AJiGSCWg7JBmFgAU68ExCpE6OciEpOjn4GB9vpHwSgYTgAAr8oB6Q==
   </chunk>
    <chunk x="-32" y="32" width="16" height="16">
    eJxjYMAEMljE5LCIgQAXFoxLPza11NIvQKb+UTAKRjIAADwRAhs=
   </chunk>
    <chunk x="-16" y="32" width="16" height="16">
-   eJzjYmBg4MKBBaA0PoBLLzImRj8u8wgBYtWNglEwCjABANkFAQs=
+   eJzjYmBg4MKBBaC0DANugEsvMsYH0NWQoheb/lEwCkYB8QAARSQBJw==
+  </chunk>
+   <chunk x="16" y="32" width="16" height="16">
+   eJxjYCAOyAExFxZMLMCmX4BC/ZTaP5T0IwNq6ScXDBb3D5T+4QQAKmkCkQ==
+  </chunk>
+   <chunk x="32" y="32" width="16" height="16">
+   eJzjYmBg4MKCiQXY9A60flIAtfQLDJD92Mwi135yALn+ppb91Ai3kQwA4NsCFQ==
   </chunk>
   </data>
  </layer>
@@ -66,8 +93,23 @@
   <object id="98" name="shutter_open" x="-768" y="304">
    <polyline points="0,0 0,64"/>
   </object>
-  <object id="104" type="weapon_burst_laser" x="-752" y="368">
+  <object id="104" type="weapon_shotgun" x="-752" y="368">
    <point/>
+  </object>
+  <object id="106" name="dogpile_path" x="640" y="336">
+   <polyline points="0,0 16,0 16,64"/>
+  </object>
+  <object id="111" type="weapon_burst_laser" x="488" y="704">
+   <point/>
+  </object>
+  <object id="126" name="up2" x="320" y="416">
+   <polyline points="0,0 0,-32"/>
+  </object>
+  <object id="129" name="left3" x="-720" y="480">
+   <polyline points="0,0 -48,0"/>
+  </object>
+  <object id="134" name="down4" x="720" y="416">
+   <polyline points="0,0 0,64"/>
   </object>
  </objectgroup>
  <objectgroup id="2" name="entities">
@@ -122,15 +164,9 @@
   <object id="92" name="side_switch" type="switch" x="-200" y="544">
    <point/>
   </object>
-  <object id="93" name="temp_switch" type="switch" x="-472" y="496">
-   <point/>
-  </object>
   <object id="95" name="start_lift_trigger" x="-704" y="544" width="32" height="16"/>
-  <object id="97" name="start_lift_top" x="-704" y="432" width="32" height="16"/>
+  <object id="97" name="start_lift_top" x="-736" y="328" width="80" height="120"/>
   <object id="99" type="parrot_enemy" x="-856" y="352">
-   <point/>
-  </object>
-  <object id="105" type="parrot_enemy" x="-880" y="352">
    <point/>
   </object>
   <object id="101" type="enemy" x="-1064" y="384">
@@ -143,11 +179,214 @@
    <point/>
   </object>
   <object id="103" name="shutter_trigger" x="-736" y="288" width="32" height="96"/>
+  <object id="107" name="dogpiler" type="switch" x="624" y="496">
+   <point/>
+  </object>
+  <object id="108" type="enemy" x="720" y="400">
+   <point/>
+  </object>
+  <object id="109" type="enemy" x="704" y="400">
+   <point/>
+  </object>
+  <object id="110" type="enemy" x="688" y="400">
+   <point/>
+  </object>
+  <object id="114" name="tutorial_cycle" x="512" y="688" width="32" height="16"/>
+  <object id="116" name="tutorial_backup2" x="544" y="688" width="16" height="16"/>
+  <object id="117" name="tutorial_backup1" x="-832" y="352" width="16" height="16"/>
+  <object id="125" type="parrot_enemy" x="520" y="320">
+   <point/>
+  </object>
+  <object id="119" type="cannon_parrot_enemy" x="248" y="400">
+   <point/>
+  </object>
+  <object id="124" type="cannon_parrot_enemy" x="240" y="160">
+   <point/>
+  </object>
+  <object id="121" type="parrot_enemy" x="344" y="416">
+   <point/>
+  </object>
+  <object id="122" type="enemy" x="296" y="320">
+   <point/>
+  </object>
+  <object id="123" type="enemy" x="312" y="320">
+   <point/>
+  </object>
+  <object id="127" name="md_left" type="switch" x="-584" y="400">
+   <point/>
+  </object>
+  <object id="128" name="md_right" type="switch" x="-552" y="400">
+   <point/>
+  </object>
+  <object id="130" type="weapon_reverse_shotgun" x="-768" y="592">
+   <point/>
+  </object>
+  <object id="131" name="secret_switch" type="switch" x="8" y="48">
+   <point/>
+  </object>
+  <object id="132" name="recall_switch" type="switch" x="-728" y="592">
+   <point/>
+  </object>
+  <object id="133" name="start_secret_area" type="secret" x="-784" y="560" width="64" height="32"/>
+  <object id="135" name="right_secret_area" type="secret" x="736" y="432" width="80" height="32"/>
+  <object id="136" name="drop_trigger" x="720" y="336" width="16" height="64"/>
+  <object id="138" name="escape_switch" type="switch" x="-1160" y="352">
+   <point/>
+  </object>
+  <object id="139" name="left_secret_area" type="secret" x="-1232" y="304" width="80" height="48"/>
+  <object id="140" type="weapon_auto_laser" x="-1224" y="352">
+   <point/>
+  </object>
+  <object id="174" type="ammo_cells_6" x="-1208" y="352">
+   <point/>
+  </object>
+  <object id="178" type="ammo_cells_6" x="-1192" y="352">
+   <point/>
+  </object>
+  <object id="179" type="ammo_cells_6" x="-1176" y="352">
+   <point/>
+  </object>
+  <object id="142" type="ammo_cells_6" x="-808" y="240">
+   <point/>
+  </object>
+  <object id="143" type="ammo_cells_6" x="-744" y="240">
+   <point/>
+  </object>
+  <object id="144" type="ammo_cells_6" x="-872" y="240">
+   <point/>
+  </object>
+  <object id="145" type="ammo_cells_6" x="-680" y="240">
+   <point/>
+  </object>
+  <object id="146" type="ammo_cells_6" x="-504" y="400">
+   <point/>
+  </object>
+  <object id="147" type="ammo_cells_6" x="-488" y="400">
+   <point/>
+  </object>
+  <object id="148" type="ammo_cells_6" x="-472" y="400">
+   <point/>
+  </object>
+  <object id="149" type="ammo_cells_6" x="-56" y="224">
+   <point/>
+  </object>
+  <object id="150" type="ammo_cells_6" x="80" y="528">
+   <point/>
+  </object>
+  <object id="151" type="ammo_cells_6" x="112" y="528">
+   <point/>
+  </object>
+  <object id="152" type="ammo_cells_6" x="48" y="528">
+   <point/>
+  </object>
+  <object id="153" type="heart" x="776" y="464">
+   <point/>
+  </object>
+  <object id="176" type="ammo_rocket" x="808" y="464">
+   <point/>
+  </object>
+  <object id="177" type="ammo_rocket" x="792" y="464">
+   <point/>
+  </object>
+  <object id="157" type="ammo_cells_6" x="568" y="624">
+   <point/>
+  </object>
+  <object id="160" type="ammo_cells_6" x="200" y="400">
+   <point/>
+  </object>
+  <object id="161" type="ammo_cells_6" x="216" y="400">
+   <point/>
+  </object>
+  <object id="158" type="ammo_cells_6" x="552" y="624">
+   <point/>
+  </object>
+  <object id="159" type="ammo_cells_6" x="536" y="624">
+   <point/>
+  </object>
+  <object id="162" type="ammo_shells_4" x="-728" y="448">
+   <point/>
+  </object>
+  <object id="163" type="ammo_shells_4" x="-712" y="448">
+   <point/>
+  </object>
+  <object id="164" type="ammo_shells_4" x="-1096" y="384">
+   <point/>
+  </object>
+  <object id="165" type="ammo_shells_4" x="-1080" y="384">
+   <point/>
+  </object>
+  <object id="166" type="ammo_shells_4" x="-440" y="576">
+   <point/>
+  </object>
+  <object id="167" type="ammo_shells_4" x="-456" y="576">
+   <point/>
+  </object>
+  <object id="168" type="heart" x="-568" y="576">
+   <point/>
+  </object>
+  <object id="169" type="ammo_shells_4" x="-232" y="48">
+   <point/>
+  </object>
+  <object id="170" type="ammo_shells_4" x="-216" y="48">
+   <point/>
+  </object>
+  <object id="171" type="ammo_shells_4" x="-600" y="240">
+   <point/>
+  </object>
+  <object id="172" type="ammo_shells_4" x="528" y="432">
+   <point/>
+  </object>
+  <object id="173" type="ammo_shells_4" x="560" y="432">
+   <point/>
+  </object>
  </objectgroup>
  <layer id="25" name="top_door" width="40" height="30">
   <data encoding="base64" compression="zlib">
    <chunk x="-16" y="0" width="16" height="16">
    eJxjYMAEbFjESAE8FOoXolD/KBgFo4A4AACFMAAl
+  </chunk>
+  </data>
+ </layer>
+ <layer id="37" name="left_door" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-80" y="16" width="16" height="16">
+   eJxjYBjegHGI6x8Fo4CWAAAMoAAE
+  </chunk>
+  </data>
+ </layer>
+ <layer id="32" name="enemy_doors" width="40" height="30">
+  <properties>
+   <property name="door" type="bool" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBgFIwmwUaifh0L9QhTqHwXUBQBCQAAl
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFwwmwUaifh0L9QhTqHwX0BQBGwAAl
+  </chunk>
+   <chunk x="0" y="16" width="16" height="16">
+   eJxjYBgFQwGwUaifh0L9QhTqHwWDEwAATGAAJQ==
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJxjYBgFQwWwUaifh0L9QhTqHwWDDwAAS9AAJQ==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="34" name="mini_door" width="40" height="30">
+  <properties>
+   <property name="door" type="bool" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   <chunk x="-48" y="16" width="16" height="16">
+   eJxjYBgFIwmwUahfiCquGAWDBQAAMQAAGQ==
+  </chunk>
+  </data>
+ </layer>
+ <layer id="31" name="dogpile_door" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYBgFtASMI1z/KBjcAAANAAAF
   </chunk>
   </data>
  </layer>
@@ -166,43 +405,94 @@
    eJxjYBgFo2DoAkYoptSMkaofAAjsAAc=
   </chunk>
    <chunk x="-64" y="0" width="16" height="16">
-   eJxjYBgFo2D4AUYiMT79lNo/WPTj8z8AEWwAFg==
+   eJxjYBgFQwEw4mCP6setHh0zQTGyGDH2kQMGk35sYQHDACXEACI=
   </chunk>
    <chunk x="-48" y="0" width="16" height="16">
-   eJxjYMAOGHGIEwsGq35GNEyufmLsx6aWWP243EGs+3HpJxUMNv3o/kYPD2wYm35S4wGX/QOtH8ZngmJsfHz6AV2oAD4=
+   eJxjYMAOGHGIEwsGq35GNEyufmLsx6YWlxgue3HpRzaHFP243DpU9KOHH4zPBMXo4UNM+JECyNVHK/24/I/Mx6cfAHOwAEo=
   </chunk>
    <chunk x="-32" y="0" width="16" height="16">
-   eJxjYCAPMJGpj9r6GSnAIx2MhsEoAABKUAAX
+   eJxjYCAPMJGpj9r6GSnAIxmMhsEoAAEATFgAGA==
   </chunk>
    <chunk x="-16" y="0" width="16" height="16">
-   eJxjYBj6gBGImYGYFcomBQ91MBL8OApoBwBZ0AAf
+   eJxjYBg6gBOHOCMQMwMxK5QNw0xQzIgHD3WAz2/DxY8wMNz8QyqgRZwCAIGcAC8=
   </chunk>
    <chunk x="0" y="0" width="16" height="16">
-   eJxjYGBgYGSgDAykfkYq2D8KRsFIBQAVsAAG
+   eJxjYGBgYGSgDAykfkYSMSWAWvrJdQ+1/DGYAC4/oYthi0smejhwAAA94xkAWqwAJw==
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFlABGNExNs/BhSs2n1I3U0s8ExaT4j5rhPFQArdwMAEcQACY=
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBgFo2DoAkYyMTbABMRcBDA+MND6yfE/ALGMARA=
   </chunk>
    <chunk x="-80" y="16" width="16" height="16">
-   eJxjYBg4wEikGnyYGnYMdv2DyQxSw38UDG4AAD54ABc=
+   eJxjYBg4wIjGJgdjM4tStwyUfmL8SYnZ1DCDmu4aBQMPAGHoACM=
   </chunk>
    <chunk x="-64" y="16" width="16" height="16">
-   eJxjYMAOGHGwsanDhXGpoQRQ06zBAPCFH74wRdZPjl3k6B8Fww8AAGiYACM=
+   eJxjYMAOGHGwsanDhXGpoQRQ06zBAPCFHzYsi0U/OXaRo38UUBdQIy9Qqh8ArHQAQw==
   </chunk>
    <chunk x="-48" y="16" width="16" height="16">
-   eJxjYGBgYGTADdDlGNEwNjXE6MfFx6YfGyYXDBb95JpDavgRayYt9OOKOyYGVHcPBvfjCldSzEbXjy42UPrxYQCDXABD
+   eJxjYGBgYGTADdDlGNEwNjXE6MfFx6YfGyYHEONeeuknxx/Y9FESHujuorZ+ZPcy4eDT0n5S9OMKV0Jm40qXgzGtYcMAiNwARg==
   </chunk>
    <chunk x="-32" y="16" width="16" height="16">
-   eJxjZBgFlABGKB6pAOR3JgZEOIzksBgIwMhAWtijqwcAGOAAEg==
+   eJxjZBgFlABGKB6pAOZ/JobRsBgIwIiGSVUPABjcABI=
   </chunk>
-   <chunk x="-16" y="16" width="16" height="16">
-   eJxjYBgFo2AUDGfAiEcOAAQcAAI=
+   <chunk x="0" y="16" width="16" height="16">
+   eJxjYBj8gBEJk6sfmR4I/bgwLrXDCZDif1LNotRN1FI3VAEARJQAIA==
+  </chunk>
+   <chunk x="16" y="16" width="16" height="16">
+   eJxjYBgagBEJk6sfmcZlPjH6KcXDCRDjH3z+p7d+cgC19JMLqJFucOkHAGKYADA=
+  </chunk>
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYCAeMJKgdqjoZyQC41JLbbcMR/34wpJUe/DFBa44IWQnpfoJAULuJ1U/semPWHUAXkQANw==
+  </chunk>
+   <chunk x="48" y="16" width="16" height="16">
+   eJxjYBgFo2DgACMaptQseuunpvsHAgAADvgACw==
+  </chunk>
+   <chunk x="-64" y="32" width="16" height="16">
+   eJxjYCAfMFKgl1L9jFTQTwmghn5KzRgFo4BSAAAcsAAJ
   </chunk>
    <chunk x="-48" y="32" width="16" height="16">
-   eJxjYEAARhxsZDF0jC5PSD8+MBT04/P/KBgFQw0AAFFAABg=
+   eJxjYMAOGHGIoWNcAJd+YgE5+hlxsKmpnxQ8CkbBYAcAWRAAHA==
   </chunk>
    <chunk x="-32" y="32" width="16" height="16">
    eJxjZGBgYETDuAC6OnxqhwogxU/D0f+jYGQDAEeoABU=
   </chunk>
    <chunk x="-16" y="32" width="16" height="16">
-   eJxjYCAMGIlQQ6l+RhzqcInjUocNE+tGSv05CkbBUAMANUAAEA==
+   eJxjYKA9YARiZiBmQcOsaGoYcejFJo5LHTZMrBuJVTsKRsFwAQCGoAAn
+  </chunk>
+   <chunk x="0" y="32" width="16" height="16">
+   eJxjYKAMMEIxMxCzoGFWJHlC+smVJ9aNlJgLUsfEAPEjK5RNDXeNglEw0AAArBAAMw==
+  </chunk>
+   <chunk x="16" y="32" width="16" height="16">
+   eJxjYBhegBGKiQVMQMwMxKxQNkw/ujilbqJUPzKm1BxkPqmA0rAY6vopjQtqxCElAF0/AHjAADU=
+  </chunk>
+   <chunk x="32" y="32" width="16" height="16">
+   eJxjYMAOGKGYXECJXkr1D2W3k6qfEQcm115q6CcXkKOfD4j5gViWTP3UCLehDACIOABX
+  </chunk>
+  </data>
+ </layer>
+ <layer id="36" name="drop_secret" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="32" y="16" width="16" height="16">
+   eJxjYBgFo4B+gBGKR8HgAAAHHAAD
+  </chunk>
+  </data>
+ </layer>
+ <layer id="35" name="start_secret" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="-48" y="16" width="16" height="16">
+   eJxjYBgFo2AUDAbAOAD6AQSoAAM=
+  </chunk>
+   <chunk x="-48" y="32" width="16" height="16">
+   eJxjYEAARgbKwEDrHwWjYBSQBgAPHAAE
+  </chunk>
+  </data>
+ </layer>
+ <layer id="33" name="jiggler" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   <chunk x="16" y="16" width="16" height="16">
+   eJxjYBgFo2DgASMePBT0D1UAABycABY=
   </chunk>
   </data>
  </layer>

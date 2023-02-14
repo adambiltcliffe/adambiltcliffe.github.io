@@ -222,6 +222,8 @@ function getImports() {
     throw new Error(getStringFromWasm0(arg0, arg1));
   };
   return imports.wbg;
+
+  return imports;
 }
 
 function initMemory(imports, maybe_memory) {}
